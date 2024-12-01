@@ -30,4 +30,4 @@ The Power BI dashboards created for this project include features like:
 
 ## 🌐 View the Dashboard
 
-![Dashboard Preview](https://github.com/nuhash-cell/Dashboards/blob/main/Project%20for%20a%20S%26P%20500%20company.png)
+![Dashboard Preview](https://github.com/nuhash-cell/Power_BI/blob/main/Project%20for%20a%20S%26P%20500%20company.png)
