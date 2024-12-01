@@ -1,10 +1,10 @@
-# 📊 Manufacturing Operations Monitoring and Reporting
+# Manufacturing Operations Monitoring and Reporting
 
 ## Project Overview
 
 This project focuses on **Manufacturing Operations Monitoring and Reporting** for an affiliate of an **S&P 500 company**. As a **Data Analyst / Power BI Developer**, the goal was to provide comprehensive data insights to support real-time decision-making and operational improvements.
 
-## 🚀 Key Achievements
+## Key Achievements
 
 - **Data Consolidation**: Integrated data from various sources to create detailed **Power BI dashboards**, enabling management to monitor essential metrics such as:
   - **Production Efficiency**
@@ -20,7 +20,7 @@ This project focuses on **Manufacturing Operations Monitoring and Reporting** fo
   - Reliable tracking of employee performance.
   - Accurate monitoring of production line activities.
 
-## 📈 Dashboard Highlights
+## Dashboard Highlights
 
 The Power BI dashboards created for this project include features like:
 
@@ -28,6 +28,6 @@ The Power BI dashboards created for this project include features like:
 - **Custom Visualizations**: Tailored charts and graphs to highlight trends and anomalies.
 - **Interactive Reports**: User-friendly interface allowing managers to drill down into specific data points for deeper analysis.
 
-## 🌐 View the Dashboard
+## View the Dashboard
 
 ![Dashboard Preview](https://github.com/nuhash-cell/Power_BI/blob/main/Project%20for%20a%20S%26P%20500%20company.png)
